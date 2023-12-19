@@ -4,9 +4,13 @@ This project if one of the first projects done during the first year at Epitech.
 This small video game is based on the rules of Duck Hunt and was made for a school project.
 
   The basic rules for the my_hunter are as follows: 
+  
     • the player is a hunter who shoots ducks.
+    
     • ducks appear on the screen and move from one side to another.
+    
     • the player can click on them to shoot them.
+    
 
 # Before cloning repository
 Having the csfml library installed is needed: https://www.sfml-dev.org/download/csfml/
