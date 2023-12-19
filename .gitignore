@@ -1,0 +1,15 @@
+# Principal
+.vscode
+.vscode/
+coding-style-reports.log
+PAST/
+
+# Object files
+*.o
+
+# Libraries
+*.a
+
+# Executables
+my_hunter
+*.out
