@@ -30,7 +30,7 @@ $ ./my_hunter -h
 
 
 # Requierements
-MUST:
+## MUST:
 
 [x] • The window must be closed using events.
 
@@ -43,7 +43,7 @@ MUST:
 [x] • The program must accept the “-h” option, then display a short description of the program, and the available user inputs.
 
 
-SHOULD
+## SHOULD
 [x] • Animations and movements in your program should not depend on the speed of your computer.
 
 [x] • Animations and movements in your program should be timed by sfClock elements.
@@ -53,7 +53,7 @@ SHOULD
 [x] • Your window should have a limited frame rate such that it can be compute without lagging.
 
 
-COULD
+## COULD
 [] • The program could have several different levels.
 
 [x] • The program could have an increasing difficulty.
