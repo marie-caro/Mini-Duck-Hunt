@@ -1,4 +1,4 @@
-# Mini-Duck-Hunt
+# Mini-Duck-Hunt {EPITECH project}
 This project if one of the first projects done during the first year at Epitech.
 
 This small video game is based on the rules of Duck Hunt and was made for a school project.
